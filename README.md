@@ -1,6 +1,64 @@
 # Project List
 *Welcome to my github. Below is a list of various SQL and Tableau projects.*
 
+## Visualization (Tableau): Coffee Shop Sales Dashboard
+
+- [Tableau Public Link](https://public.tableau.com/views/Coffeeshopdashboard_17579706182720/CoffeeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    ![image](/Github_landing_page/image/Coffee_Shop_Sales_Dashboard.png)
+    *[Data Source](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset/data)*
+
+- **Dashboard Objective**
+
+    Presenting an overview for coffee sales: key metric trend charts and sales breakdown
+    
+
+- **Metrics**
+
+1. KPI trend chart with year-to-year comparison: sales, # of coffee sold
+2. Revenue breakdown
+    1. Sales by hour of the day
+    2. Sales by days of the week
+    3. Sales by coffee category
+
+
+## Visualization (Tableau): Store Customer Dashboard
+
+- [Tableau Public Link](https://public.tableau.com/views/Sales_Dashboard_17576098897380/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - *Click “Customer” navigation button*
+    ![image](/Github_landing_page/image/Demo_Store_Customer_Dashboard.png)
+    *[Data Source & Training Content](https://www.blog.datawithbaraa.com/)*
+
+- **Dashboard Objective**
+
+    Providing an overview for customer metrics and stats
+
+- **Metrics**
+
+1. KPI trend chart + year-to-year comparison: customer number, sales per customer, order number
+2. Customer order behavior: identify most common order number per customer for a given year
+3. Profit & Loss by subcategory
+4. Top customer stats: display sales, profit, order number from top customers for a given year
+
+
+
+## Visualization (Tableau): Store Sales Dashboard
+
+- [Tableau Public Link](https://public.tableau.com/views/Sales_Dashboard_17576098897380/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  - *Click “Sales” navigation button*
+    ![image](/Github_landing_page/image/Demo_Store_Sales_Dashboard.png)
+    *[Data Source & Training Content](https://www.blog.datawithbaraa.com/)*
+
+- **Dashboard Objective**
+
+    Providing a high level metrics for sales performance
+
+- **Metrics**
+
+1. KPI trend chart + year-to-year comparison: sales, profits, quantity sold
+2. Composition of revenue: sales by subcategory (current year vs previous year)
+3. Profit & Loss by subcategory
+4. Sales & profit trend / seasonality:  weekly trend chart for current year
+
+
+
 ## SQL: E-Commerce Project
 
 - [Project Link](https://github.com/feng-nmn-g/SQL-eCommerce)
