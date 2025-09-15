@@ -5,7 +5,7 @@
 
 - [Tableau Public Link](https://public.tableau.com/views/Coffeeshopdashboard_17579706182720/CoffeeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-    ![image](/Github_landing_page/image/Coffee_Shop_Sales_Dashboard.png)
+    ![image](image/Coffee_Shop_Sales_Dashboard.png)
     *[Data Source](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset/data)*
 
 - **Dashboard Objective**
