@@ -1,11 +1,13 @@
 # Project List
 *Welcome to my github. Below is a list of various SQL and Tableau projects.*
 
+
 ## Visualization (Tableau): Coffee Shop Sales Dashboard
 
 - [Tableau Public Link](https://public.tableau.com/views/Coffeeshopdashboard_17579706182720/CoffeeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-    ![image](image/Coffee_Shop_Sales_Dashboard.png)
+    <img src="image/Coffee_Shop_Sales_Dashboard.png" width="250">
+
     *[Data Source](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset/data)*
 
 - **Dashboard Objective**
