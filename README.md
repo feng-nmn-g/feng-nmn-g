@@ -1,16 +1,20 @@
 # Project List
 *Welcome to my github. Below is a list of various SQL and Tableau projects.*
 
-> **_Tableau:_**
 
-1. Coffee Shop Sales Dashboard
-2. Store Customer Dashboard
-3. Store Sales Dashboard
-> **_SQL:_**
-1. E-Commerce Data
-2. Restaurant Orders
-3. Vehicle Sales Data
+<small>
 
+    Tableau
+    1. Coffee Shop Sales Dashboard
+    2. Store Customer Dashboard
+    3. Store Sales Dashboard
+
+    SQL
+    1. E-Commerce Data
+    2. Restaurant Orders
+    3. Vehicle Sales Data
+
+</small>
 
 
 ## Visualization (Tableau): Coffee Shop Sales Dashboard
