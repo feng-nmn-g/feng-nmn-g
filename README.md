@@ -25,7 +25,7 @@
 ## Visualization (Tableau): Store Customer Dashboard
 
 - [Tableau Public Link](https://public.tableau.com/views/Sales_Dashboard_17576098897380/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - *Click “Customer” navigation button*
-    ![image](/Github_landing_page/image/Demo_Store_Customer_Dashboard.png)
+    ![image](image/Demo_Store_Customer_Dashboard.png)
     *[Data Source & Training Content](https://www.blog.datawithbaraa.com/)*
 
 - **Dashboard Objective**
@@ -44,7 +44,7 @@
 ## Visualization (Tableau): Store Sales Dashboard
 
 - [Tableau Public Link](https://public.tableau.com/views/Sales_Dashboard_17576098897380/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  - *Click “Sales” navigation button*
-    ![image](/Github_landing_page/image/Demo_Store_Sales_Dashboard.png)
+    ![image](image/Demo_Store_Sales_Dashboard.png)
     *[Data Source & Training Content](https://www.blog.datawithbaraa.com/)*
 
 - **Dashboard Objective**
