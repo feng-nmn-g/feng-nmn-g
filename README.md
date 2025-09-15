@@ -1,12 +1,23 @@
 # Project List
 *Welcome to my github. Below is a list of various SQL and Tableau projects.*
 
+> **_Tableau:_**
+
+1. Coffee Shop Sales Dashboard
+2. Store Customer Dashboard
+3. Store Sales Dashboard
+> **_SQL:_**
+1. E-Commerce Data
+2. Restaurant Orders
+3. Vehicle Sales Data
+
+
 
 ## Visualization (Tableau): Coffee Shop Sales Dashboard
 
 - [Tableau Public Link](https://public.tableau.com/views/Coffeeshopdashboard_17579706182720/CoffeeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-    <img src="image/Coffee_Shop_Sales_Dashboard.png" width="800">
+    <img src="image/Coffee_Shop_Sales_Dashboard.png" width="600">
 
     *[Data Source](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset/data)*
 
@@ -28,7 +39,7 @@
 
 - [Tableau Public Link](https://public.tableau.com/views/Sales_Dashboard_17576098897380/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) - *Click “Customer” navigation button*
     
-    <img src="image/Demo_Store_Customer_Dashboard.png" width="800">
+    <img src="image/Demo_Store_Customer_Dashboard.png" width="600">
 
     *[Data Source & Training Content](https://www.blog.datawithbaraa.com/)*
 
@@ -49,7 +60,7 @@
 
 - [Tableau Public Link](https://public.tableau.com/views/Sales_Dashboard_17576098897380/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  - *Click “Sales” navigation button*
 
-    <img src="image/Demo_Store_Sales_Dashboard.png" width="800">
+    <img src="image/Demo_Store_Sales_Dashboard.png" width="600">
 
     *[Data Source & Training Content](https://www.blog.datawithbaraa.com/)*
 
