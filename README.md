@@ -132,7 +132,7 @@
 6. How does mileage affect average sales price and sales number?
 
 
-## Tools
+### Tools Used for SQL Projects
 
 - **Database**: PostgreSQL, PgAdmin
 
