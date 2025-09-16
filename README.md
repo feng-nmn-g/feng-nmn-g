@@ -2,7 +2,7 @@
 *Welcome to my github. Below is a list of various SQL and Tableau projects.*
 
 
-<small>
+<i><small>
 
     Tableau
     1. Coffee Shop Sales Dashboard
@@ -14,7 +14,8 @@
     2. Restaurant Orders
     3. Vehicle Sales Data
 
-</small>
+</small></i>
+
 
 
 ## Visualization (Tableau): Coffee Shop Sales Dashboard
