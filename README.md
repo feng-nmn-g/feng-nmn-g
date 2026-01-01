@@ -3,6 +3,11 @@
 
 
 <i><small>
+    
+    Python
+    1. Web app (streamlit): personal spending dashboard
+        
+
 
     Tableau
     1. Coffee Shop Sales Dashboard
@@ -16,6 +21,10 @@
 
 </small></i>
 
+## Python + streamlit app: Spending Dashboard
+
+- [Github](https://github.com/feng-nmn-g/Spending-Dashboard)
+- [Website](https://spending-analysis.streamlit.app/)
 
 
 ## Visualization (Tableau): Coffee Shop Sales Dashboard
