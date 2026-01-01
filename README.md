@@ -27,6 +27,11 @@
     <img src="image/Python_App_Spending_Dashboard1.png" width="600">
     <img src="image/Python_App_Spending_Dashboard2.png" width="600">
 
+- **Dashboard Objective**
+
+    Creating an interactive web app for spending dashboard (options for demo data or importing custom file)
+
+
 ## Visualization (Tableau): Coffee Shop Sales Dashboard
 
 - [Tableau Public Link](https://public.tableau.com/views/Coffeeshopdashboard_17579706182720/CoffeeDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -142,7 +147,9 @@
 
 
 ---
-### Tools Used for SQL Projects
+### Tools Used for Projects
+
+- **Python**: Pandas, Numpy, Ploty Dash, Matplotlib, Streamlit
 
 - **Database**: PostgreSQL, PgAdmin
 
