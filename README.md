@@ -6,9 +6,7 @@
     
     Python
     1. Web app (streamlit): personal spending dashboard
-        
-
-
+ 
     Tableau
     1. Coffee Shop Sales Dashboard
     2. Store Customer Dashboard
@@ -25,7 +23,9 @@
 
 - [Github](https://github.com/feng-nmn-g/Spending-Dashboard)
 - [Website](https://spending-analysis.streamlit.app/)
-
+    
+    <img src="image/Python_App_Spending_Dashboard1.png" width="600">
+    <img src="image/Python_App_Spending_Dashboard2.png" width="600">
 
 ## Visualization (Tableau): Coffee Shop Sales Dashboard
 
