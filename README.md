@@ -1,5 +1,5 @@
 # Project List
-*Welcome to my github. Below is a list of various SQL and Tableau projects.*
+*Welcome to my github. Below is a list of Python, SQL and Tableau projects.*
 
 
 <i><small>
@@ -19,7 +19,7 @@
 
 </small></i>
 
-## Python + streamlit app: Spending Dashboard
+## Web App (Python + Streamlit): Spending Dashboard
 
 - [Github](https://github.com/feng-nmn-g/Spending-Dashboard)
 - [Website](https://spending-analysis.streamlit.app/)
