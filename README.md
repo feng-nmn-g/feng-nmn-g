@@ -5,7 +5,8 @@
 <i><small>
     
     Python
-    1. Web app (streamlit): personal spending dashboard
+    1. Web app: personal spending dashboard
+    2. Web app: trading dashboard
  
     Tableau
     1. Coffee Shop Sales Dashboard
@@ -31,6 +32,20 @@
 
     Creating an interactive web app for spending dashboard (options for demo data or importing custom file)
 
+## Web App (Python + Streamlit): Trade Log Dashboard
+
+- [Github](https://github.com/feng-nmn-g/Trade-Log-Dashboard)
+- [Website](https://trade-log-dashboard.streamlit.app/)
+    
+    <img src="image/Python_App_Trade_Log_1.png" width="600">
+    <img src="image/Python_App_Trade_Log_2.png" width="600">
+    <img src="image/Python_App_Trade_Log_3.png" width="600">
+
+- **Dashboard Objective**
+
+    Web app for trade log dashboard (tracking and analyzing trading on a portfolio / strategy level)
+
+    
 
 ## Visualization (Tableau): Coffee Shop Sales Dashboard
 
